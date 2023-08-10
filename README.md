@@ -1,4 +1,5 @@
 # Detecting Word Sense
+Program that utilizes machine learning models to predict word senses for given sentences that are inputted by the user. Models are trained on training data. Uses NLTK and sckit-learn.
 I am choosing three words "rubbish", "yarn" and "tissue." Each of these words have different meanings or "sense" depending on how it is used in a sentence. We are training model on 2 different senses of each word and after training, the code will detect sense of word.
 
 # Running Project
